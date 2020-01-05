@@ -1,8 +1,5 @@
-dependancies:
-  - python = 3
-  - numpi
-  - scipy
-  - matplotlib
-  - sympi
-  - math
-  - notebook
+numpi
+scipy
+matplotlib
+sympi
+math
