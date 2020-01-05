@@ -1,1 +1,8 @@
-#requirements
+dependancies:
+  - python = 3
+  - numpi
+  - scipy
+  - matplotlib
+  - sympi
+  - math
+  - notebook
