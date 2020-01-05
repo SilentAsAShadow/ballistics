@@ -1,5 +1,5 @@
 numpi
 scipy
 matplotlib
-sympi
+sympy
 math
