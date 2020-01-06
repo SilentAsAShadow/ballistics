@@ -1,4 +1,4 @@
-numpi
+numpy
 scipy
 matplotlib
 sympy
