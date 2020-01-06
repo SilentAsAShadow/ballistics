@@ -2,4 +2,3 @@ numpi
 scipy
 matplotlib
 sympy
-math
