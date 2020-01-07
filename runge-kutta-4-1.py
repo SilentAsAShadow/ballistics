@@ -1,5 +1,5 @@
 # Python program to implement Runge Kutta method
-# A sample differential equation "dy / dx = (x - y)/2"
+# A sample differential equation: dy / dx = (x - y)/2
 
 
 def dydx(x, y):
