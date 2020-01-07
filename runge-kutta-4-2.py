@@ -1,6 +1,6 @@
 # Python script to impletement Runge-Kutta 4th
 # Order Method to determine the trajectory of
-# a projectile with air.
+# a projectile with air resistance.
 
 
 def f(t, v, g, m, k):
